@@ -1,6 +1,6 @@
 # fifty-two-packages
 
-My goal for 2024 is to challenge myself to learn new things, which is why I've started this project, `fifty-two-packages`. Over the course of 52 weeks, I will be exploring 52 Python packages. Sharing my learnings here 💭
+My goal for 2024 is to challenge myself to learn new things, which is why I've started this project, `fifty-two-packages`. Over the course of 52 weeks, I will be digging into 52 Python packages. Sharing my learnings here 💭
 
 
 ### The Itinerary 
