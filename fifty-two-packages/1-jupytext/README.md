@@ -1,1 +1,5 @@
-# 1. Jupytext 
+# 1. jupytext 
+
+```
+pip install jupytext
+```
