@@ -8,8 +8,8 @@ My goal for 2024 is to challenge myself to learn new things, which is why I've s
 
 |Week|Python Package|
 |-----|-------------|
-|1    |jupytext| 
-|2    |polars  |   
+|1    |polars| 
+|2    |pandas 2.0  |   
 |3    |[vaex](https://vaex.io/)|  
 |4    |implicit|
 |5    |recmetrics|
