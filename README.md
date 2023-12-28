@@ -6,14 +6,14 @@ My goal for 2024 is to challenge myself to learn new things, which is why I've s
 
 ### The Itinerary 
 
-|Week|Python Package|
-|-----|-------------|
-|1    |polars| 
-|2    |pandas 2.0  |   
-|3    |[vaex](https://vaex.io/)|  
-|4    |implicit|
-|5    |recmetrics|
-|6    |lux|
+|Week|Python Package|Code|
+|-----|-------------|-----|
+|1    |[polars](https://github.com/pola-rs/polars)|[link](fifty-two-packages/1-polars/)|
+|2    |pandas 2.0  |   |
+|3    |[vaex](https://vaex.io/)|  |
+|4    |implicit| |
+|5    |recmetrics| |
+|6    |lux| |
 
 
 Have a Python package that you'd like to recommend? Feel free to create a [Github issue](https://github.com/topspinj/fifty-two-packages/issues/new).
