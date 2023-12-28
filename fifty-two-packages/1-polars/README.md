@@ -4,7 +4,7 @@
 - [Github repo](https://github.com/pola-rs/polars)
 
 
-<img src="../assets/polars.png" width="50%">
+<img src="https://fiftytwo.s3.us-east-2.amazonaws.com/polars.png" width="20%">
 
 ### Summary 
 
