@@ -8,7 +8,7 @@
 
 ### Summary 
 
-[Pandas](https://pandas.pydata.org/) (the Python package) is a great easy-to-use library for exploring and apply transformations to dataframes. However, one of its limitations is that it doesn't perform well with larger datasets. Pandas stores data in-memory and has a memory limit of 100GB. 
+[Pandas](https://pandas.pydata.org/) (the Python package) is a great easy-to-use library for exploration and transformation of dataframes. However, one of its limitations is that it doesn't perform well with larger datasets. Pandas stores data in-memory and has a memory limit of 100GB. 
 
 For use cases where you're dealing with data beyond the 100GB memory threshold, this is where Polars shines. Polars, which was built with Rust and uses Apache Arrow's columnar format, is said to execute common operations [10-100 times faster](https://blog.jetbrains.com/dataspell/2023/08/polars-vs-pandas-what-s-the-difference/#:~:text=As%20you%20can%20see%2C%20Polars,out%2Dof%2Dmemory%20errors.) than Pandas . With Polars' Lazy DataFrame, we can also handle larger-than-memory data beyond the 100GB threshold. 
 
